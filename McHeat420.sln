@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "km", "McDriver\km\km.vcxproj", "{7181416F-9955-451C-AD56-C7570A1239CF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kdmapper", "McMapper\kdmapper\kdmapper.vcxproj", "{518E0636-BA8F-459D-ACAC-81BD33475E3E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "um", "McJacker\McJacker\aio overlay.vcxproj", "{E7A246C0-219E-4227-AFE7-D72492F12FF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7181416F-9955-451C-AD56-C7570A1239CF}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{7181416F-9955-451C-AD56-C7570A1239CF}.Debug|ARM64.Build.0 = Debug|ARM64
+		{7181416F-9955-451C-AD56-C7570A1239CF}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{7181416F-9955-451C-AD56-C7570A1239CF}.Debug|x64.ActiveCfg = Debug|x64
+		{7181416F-9955-451C-AD56-C7570A1239CF}.Debug|x64.Build.0 = Debug|x64
+		{7181416F-9955-451C-AD56-C7570A1239CF}.Debug|x64.Deploy.0 = Debug|x64
+		{7181416F-9955-451C-AD56-C7570A1239CF}.Release|ARM64.ActiveCfg = Release|ARM64
+		{7181416F-9955-451C-AD56-C7570A1239CF}.Release|ARM64.Build.0 = Release|ARM64
+		{7181416F-9955-451C-AD56-C7570A1239CF}.Release|ARM64.Deploy.0 = Release|ARM64
+		{7181416F-9955-451C-AD56-C7570A1239CF}.Release|x64.ActiveCfg = Release|x64
+		{7181416F-9955-451C-AD56-C7570A1239CF}.Release|x64.Build.0 = Release|x64
+		{7181416F-9955-451C-AD56-C7570A1239CF}.Release|x64.Deploy.0 = Release|x64
+		{518E0636-BA8F-459D-ACAC-81BD33475E3E}.Debug|ARM64.ActiveCfg = Debug|x64
+		{518E0636-BA8F-459D-ACAC-81BD33475E3E}.Debug|ARM64.Build.0 = Debug|x64
+		{518E0636-BA8F-459D-ACAC-81BD33475E3E}.Debug|x64.ActiveCfg = Debug|x64
+		{518E0636-BA8F-459D-ACAC-81BD33475E3E}.Debug|x64.Build.0 = Debug|x64
+		{518E0636-BA8F-459D-ACAC-81BD33475E3E}.Release|ARM64.ActiveCfg = Release|x64
+		{518E0636-BA8F-459D-ACAC-81BD33475E3E}.Release|ARM64.Build.0 = Release|x64
+		{518E0636-BA8F-459D-ACAC-81BD33475E3E}.Release|x64.ActiveCfg = Release|x64
+		{518E0636-BA8F-459D-ACAC-81BD33475E3E}.Release|x64.Build.0 = Release|x64
+		{E7A246C0-219E-4227-AFE7-D72492F12FF9}.Debug|ARM64.ActiveCfg = Debug|x64
+		{E7A246C0-219E-4227-AFE7-D72492F12FF9}.Debug|ARM64.Build.0 = Debug|x64
+		{E7A246C0-219E-4227-AFE7-D72492F12FF9}.Debug|x64.ActiveCfg = Debug|x64
+		{E7A246C0-219E-4227-AFE7-D72492F12FF9}.Debug|x64.Build.0 = Debug|x64
+		{E7A246C0-219E-4227-AFE7-D72492F12FF9}.Release|ARM64.ActiveCfg = Release|x64
+		{E7A246C0-219E-4227-AFE7-D72492F12FF9}.Release|ARM64.Build.0 = Release|x64
+		{E7A246C0-219E-4227-AFE7-D72492F12FF9}.Release|x64.ActiveCfg = Release|x64
+		{E7A246C0-219E-4227-AFE7-D72492F12FF9}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C13E581-BA80-4206-9F7B-64F4E7C7BA50}
+	EndGlobalSection
+EndGlobal
