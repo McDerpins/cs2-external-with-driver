@@ -14,4 +14,6 @@ Instructions:
 3. Drag the .sys file on the mapper to map the driver
 4. Open CS2 and start the user mode application
 
+Screenshot: https://ibb.co/5X5kJpJG
+
 Enjoy!
